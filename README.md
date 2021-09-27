@@ -10,5 +10,9 @@ For more demos/exercises go to https://github.com/IFCjs/examples
 
 To visit official organization repository please visit: https://github.com/IFCjs
 
+Thanks to IFCjs team for their effort, cheers!
+
 ![officeifc](./office.png)
+
+
 
